@@ -1,0 +1,21 @@
+{
+  "type": "module",
+  "name": "algo-fl4sh-loan-sdk",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx mocha"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "peerDependencies": {
+    "algosdk": "^2.4.0"
+  },
+  "devDependencies": {
+    "algosdk": "=2.4.0",
+    "mocha": "^10.2.0",
+    "expect": "^29.7.0"
+  }
+}
