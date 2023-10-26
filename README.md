@@ -1,10 +1,10 @@
 # algo-fl4sh-loan-sdk
 
-[]() client for javascript.
+[Algorand FL4SH LOAN](https://github.com/d13co/algo-FL4SH-LOAN-lsig) client for javascript.
 
 ## What it is / How it works / Why would I use it / etc
 
-Read the [FL4SH LOAN documentation here]().
+Read the [FL4SH LOAN documentation here](https://github.com/d13co/algo-FL4SH-LOAN-lsig).
 
 ## Installation
 

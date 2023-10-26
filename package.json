@@ -1,9 +1,10 @@
 {
   "type": "module",
   "name": "algo-fl4sh-loan-sdk",
-  "version": "0.0.1",
+  "version": "1.0.1",
   "description": "",
   "main": "index.js",
+  "repository": "https://github.com/d13co/algo-FL4SH-LOAN-sdk",
   "scripts": {
     "test": "npx mocha"
   },

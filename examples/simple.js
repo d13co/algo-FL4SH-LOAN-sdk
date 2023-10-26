@@ -6,6 +6,8 @@ import { makeLoanTxn, signLoanTxn, getAddress } from '../index.js';
  * We repay 1100 for the fee 
  *
  * Make sure to fund your account (SKHZ5MOLIECMR6OZ24FYP26LCTCMLGBR36WMIGH22NRFUPKSXZJZGZO5QU in the example mnemonic) and the logic sig account (printed when you run this)
+ *
+ * Default node config is for sandnet, change as appropriate if needed
  */
 
 const token = process.env.TOKEN ?? "aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa";
