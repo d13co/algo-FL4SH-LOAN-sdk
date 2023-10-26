@@ -1,14 +1,14 @@
 {
   "type": "module",
   "name": "algo-fl4sh-loan-sdk",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "",
   "main": "index.js",
   "repository": "https://github.com/d13co/algo-FL4SH-LOAN-sdk",
   "scripts": {
     "test": "npx mocha"
   },
-  "keywords": [],
+  "keywords": ["algorand", "flash loan", "logic sig"],
   "author": "",
   "license": "ISC",
   "peerDependencies": {
