@@ -24,7 +24,7 @@ See also: examples/ for a standalone example.
 
 ```
 import algosdk from 'algosdk';
-import { makeLoanTxn, signLoanTxn } from 'algo-fl4sh-lsig-sdk';
+import { makeLoanTxn, signLoanTxn } from 'algo-fl4sh-loan-sdk';
 
 const algod = new algosdk.Algodv2("aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa", "http://localhost", "4001");
 
